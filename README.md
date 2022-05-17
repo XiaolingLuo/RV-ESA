@@ -1,2 +1,2 @@
 # RV-ESA
-RV-ESA: A Novel Computer-Aided Analysis System for Elastic Shape Analysis of Retinal Vessels in Diabetic Retinopathy
+RV-ESA: A Novel Computer-Aided Elastic Shape Analysis System for Retinal Vessels in Diabetic Retinopathy
