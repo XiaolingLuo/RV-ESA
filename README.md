@@ -7,7 +7,7 @@
 The retinal vasculature is the only part of the human circulatory system that allows direct noninvasive visualization of the body's microvasculature, which provides the opportunity to detect the structural and functional changes before diabetic retinopathy (DR) becomes unable to intervene. A novel computer-aided analysis system is proposed to provide objective vascular shape analysis data for ophthalmologists to diagnose DR. This paper mathematically represents the vascular geometry model and performs statistical analysis on it. To visualize the changes of vascular networks in the progression of DR, this paper also utilizes the geodesic tool to show the deformation process. 
 
 
-**Documents Description:**
+**Description of the main Documents:**
 
 addPath.m: run this file before starting.
 
